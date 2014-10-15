@@ -1,3 +1,21 @@
+# MODEL1012080000: Heitzler2012_GPCRsignalling
+
+## Installation
+
+Download this repository, and install with distutils
+
+`python setup.py install`
+
+Or, install using pip
+
+`pip install git+https://github.com/biomodels/MODEL1012080000.git`
+
+To install a specific version (in this example, from the 2014-09-16 BioModels release)
+
+`pip install git+https://github.com/biomodels/MODEL1012080000.git@20140916`
+
+
+# Model Notes
 
 
 This model is from the article:  
@@ -25,4 +43,5 @@ signaling through its competition with GRK5 and 6 for receptor
 phosphorylation. Importantly, we experimentally confirmed the validity of this
 novel GRK2-dependent mechanism in both primary vascular smooth muscle cells
 naturally expressing the AT(1A)R, and HEK293 cells expressing other 7TMRs.
+
 
